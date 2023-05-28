@@ -12,11 +12,11 @@
 
 错误骨骼
 
-![1.jpg](screenshots\1.jpg)
+![1.jpg](screenshots/1.jpg)
 
 校正后的骨骼
 
-![2.jpg](screenshots\2.jpg)
+![2.jpg](screenshots/2.jpg)
 
 ### 校正过程
 
@@ -32,15 +32,15 @@
 
 未进行校正时，扭曲的手掌蒙皮
 
-![initial.png](screenshots\initial.png)
+![initial.png](screenshots/initial.png)
 
 校正手指骨骼点后的效果
 
-![finger.gif](screenshots\finger.gif)
+![finger.gif](screenshots/finger.gif)
 
 校正手掌跟骨骼点后的效果
 
-![wrist.gif](screenshots\wrist.gif)
+![wrist.gif](screenshots/wrist.gif)
 
 - hand-openxr.png - openxr手部骨骼点位置图
 
